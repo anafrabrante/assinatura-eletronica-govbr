@@ -20,10 +20,3 @@ Os casos de teste foram realizados com o objetivo de verificar o funcionamento d
 | CT14 | Campo obrigatório | Tentar iniciar o processo sem selecionar um documento | O sistema deve impedir a continuidade e solicitar a seleção de um arquivo | Aguardando execução do teste | Pendente |
 
 
-**Observações:**
-
-- Os testes foram realizados por meio do navegador, utilizando o portal de Assinatura Eletrônica gov.br
-- PASS indica que o resultado obtido correspondeu ao resultado esperado
-- FAIL indica que o sistema apresentou um comportamento diferente do esperado
-- Testes pendentes não são considerados aprovados
-
