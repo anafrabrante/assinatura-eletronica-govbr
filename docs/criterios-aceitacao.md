@@ -15,6 +15,8 @@ CA01.5 - Arquivo Vazio: Arquivos sem conteúdo devem ser rejeitados.
 
 CA01.6 - Limite de Quantidade: O sistema deve permitir o envio de até cinco documentos simultaneamente e impedir o envio de uma quantidade superior.
 
+CA01.7 - Campo Obrigatório: O sistema deve impedir o avanço no processo caso nenhum documento seja selecionado.
+
 **RF02 - Posicionamento da Assinatura**
 
 CA02.1 - Caminho Feliz: Ao selecionar uma página do documento, o sistema deve permitir posicionar a representação visual da assinatura no local escolhido.
