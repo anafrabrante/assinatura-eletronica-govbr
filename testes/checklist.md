@@ -11,4 +11,5 @@
 - [x] Verificar se a assinatura permanece presente após download
 - [x] Verificar se o sistema impede posicionar a assinatura fora do documento
 - [x] Verificar a funcionalidade da opção não mostrar assinatura no documento
-- [x] Verificar se o sistema impede a assinatura ao colocar código de autorização enviada ao aplicativo do gov.br
+- [x] Verificar se o sistema impede a assinatura ao colocar código de autorização incorreto enviado ao aplicativo do gov.br
+- [x] Verificar se o sistema impede prosseguir sem selecionar um documento
