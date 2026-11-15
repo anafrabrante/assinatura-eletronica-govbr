@@ -10,6 +10,7 @@ A matriz de rastreabilidade relaciona os requisitos identificados aos critérios
 | RF01 | Identificar arquivos corrompidos | CT05 |
 | RF01 | Rejeitar arquivos vazios | CT06 |
 | RF01 | Respeitar o limite de quantidade de documentos | CT03, CT04 |
+| RF01 | Impedir avanço sem seleção de arquivo | CT14 |
 | RF02 | Permitir o posicionamento da assinatura | CT02 |
 | RF02 | Impedir posicionamento fora dos limites do documento | CT11 |
 | RF02 | Permitir assinatura sem representação visual | CT12 |
