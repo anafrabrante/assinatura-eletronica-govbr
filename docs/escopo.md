@@ -1,6 +1,6 @@
 **Definição do Escopo**
 
-**Aplicação:** Portal de Assinatura Eletrônica gov.br (acessível via navegador Web e pelo aplicativo móvel gov.br para Android e iOS)
+**Aplicação:** Portal de Assinatura Eletrônica gov.br (acessível via navegador Web, com uso auxiliar do aplicativo móvel gov.br para recebimento de código de autorização)
 
 **Fluxo:** Upload do documento, posicionamento de assinatura, autorização digital, download e verificação de validade de documentos assinados. 
 
@@ -8,9 +8,10 @@
 
 **O que faz parte do escopo (Dentro do Escopo):**
 - Submissão e Upload de Arquivo
+- Validação da quantidade máxima de arquivos simultâneos (até 5 documentos)
 - Seleção e envio de arquivos via botão "Escolher arquivo".
 - Validação de formatos e extensões permitidas (.DOC, .DOCX, .ODT, .JPG, .PNG e .PDF).
-- Validação da restrição de tamanho máximo do arquivo (mais de 10 MBs).
+- Validação da restrição de tamanho máximo do arquivo (mais de 10 MB).
 
 
 **Posicionamento e Assinatura Digital:**
