@@ -17,6 +17,6 @@ Os casos de teste foram realizados com o objetivo de verificar o funcionamento d
 | CT11 | Posicionamento da assinatura | Tentar posicionar a assinatura fora dos limites do documento | O sistema deve impedir o posicionamento fora da área permitida | O sistema impediu o posicionamento fora dos limites do documento | PASS |
 | CT12 | Assinatura sem representação visual | Utilizar a opção de não exibir a representação visual da assinatura no documento | O sistema deve permitir concluir a assinatura sem exibir a representação visual, conforme a opção selecionada | A assinatura foi realizada sem a representação visual | PASS |
 | CT13 | Código de autorização inválido | Informar um código de autorização incorreto durante o processo de assinatura | O sistema deve rejeitar o código e impedir a conclusão da assinatura | O sistema rejeitou o código incorreto e impediu a assinatura | PASS |
-| CT14 | Campo obrigatório | Tentar iniciar o processo sem selecionar um documento | O sistema deve impedir a continuidade e solicitar a seleção de um arquivo | Aguardando execução do teste | Pendente |
+| CT14 | Campo obrigatório | Tentar iniciar o processo sem selecionar um documento | O sistema deve impedir a continuidade e solicitar a seleção de um arquivo | O sistema não permite prosseguir sem selecionar arquivo | PASS |
 
 
